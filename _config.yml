@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Robert Howells
+email:       robert.howells@gmail.com
+author:      Robert Howells
+description: ""
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://rhowells.github.io"
 
 # Google analytics
 google_analytics:
@@ -19,10 +19,10 @@ show_post_footers:  false
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
+show_social_icons: true
 github_username:
 stackoverflow_id:
-twitter_username:
+twitter_username:  rhowells
 google_plus_id:
 linkedin_username:
 bitcoin_url:
